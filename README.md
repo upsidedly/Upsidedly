@@ -7,6 +7,7 @@ I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python
 
 ### 2026
 - [Claw Shell](https://github.com/Mantaworks/claw-shell): A modern, fast MacOS client for OpenClaw, chock full of convenient features!
+- [StudyVault](https://studyvault.me): A studying and learning platform for CSEC and CAPE examinations.
 
 ### 2025
 - [Dark mode ShadCN Auth Template](https://github.com/Upsidedly/darkmode-shadcn-auth-template): Quick template to spin up a ShadCN project with auth included and dark mode!
