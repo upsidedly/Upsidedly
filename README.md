@@ -3,6 +3,8 @@
 An ambitious high school developer who creates things to benefit others and quell my boredom.
 I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python.org/), [Javascript](https://nodejs.org/en/) (Typescript), [Java](https://www.java.com/en/) and some [Kotlin](https://kotlinlang.org/). I started [Mantaworks](https://github.com/Mantaworks), a tiny software startup to house all my cooler projects.
 
+You can see what I'm up to [on my website](https://upsided.dev).
+
 ## Projects
 
 ### 2026
