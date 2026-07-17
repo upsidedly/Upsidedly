@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Upsidedly/Upsidedly/main/upsided2.png" alt="Upsided" width="500"/>
+## Hello! I'm Matthew
 
-Hello! I'm Matthew, an ambitious high school developer who creates things to benefit others and quell my boredom.
+An ambitious high school developer who creates things to benefit others and quell my boredom.
 I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python.org/), [Javascript](https://nodejs.org/en/) (Typescript), [Java](https://www.java.com/en/) and some [Kotlin](https://kotlinlang.org/). I started [Mantaworks](https://github.com/Mantaworks), a tiny software startup to house all my cooler projects.
 
 ## Projects
