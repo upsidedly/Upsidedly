@@ -41,7 +41,3 @@ Alongside my personal projects, I build and maintain software for student organi
 - [Pi Champs](https://github.com/Upsidedly/pi-champs) — A simple game for testing how many digits of π you can remember.
 
 - [Oil Worth](https://github.com/Upsidedly/oil-worth) — A tool that compares the energy used by everyday activities with its equivalent amount of oil.
-
-## GitHub Stats
-
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Upsidedly&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
